@@ -5,7 +5,7 @@
 
 I was inspired by the 3D pyramid hologram videos on the internet. Holograms of jellyfish, fireworks, birds and much more. Here's an example: https://www.youtube.com/watch?v=7YWTtCsvgvg 
 
-As a result, I begged to ask the question, can it be used as an interactive tool, whether it be a game like snake, or as a tool for everyday life.
+As a result, I wondered can it be used as an interactive tool, whether it be a game like snake, or as a tool for everyday life.
 
 ## What it does
 
@@ -29,5 +29,4 @@ People often use the same technologies, recycling the same APIs and hardware lik
 
 ## What's next for 3D Snake Hologram
 
-Possible interaction between a webcam and the 3D pyramid hologram interface. Allowing recognition and reactions to nearby motions or gestures. I think this is a piece of hardware that I can be proud of because I don't need anything external other than my monitor, plexiglas and code.
-
+Possible interaction between a webcam and the 3D pyramid hologram interface. Allowing recognition and reactions to nearby motions or gestures. 
