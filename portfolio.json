@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "title": "Snak3d",
+  "summary": "A browser-playable 3D snake experiment designed for a four-sided Pepper's ghost display.",
+  "preview": {
+    "type": "iframe",
+    "url": "/previews/snake3d/",
+    "image": "images/va@2x.png"
+  },
+  "download": "https://github.com/t3kkenz/Snak3d/releases/latest"
+}
